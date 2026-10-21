@@ -11,3 +11,4 @@ Next Steps: Refining the certification framework through public consultation and
  
 Project Links:
 Read the Working Paper (SSRN): https://ssrn.com/abstract=7592640
+Read the full working paper (pdf):https://drive.google.com/file/d/1ThpnYyjMBPz-QKO650_FKjrMryYb5U0e/view?usp=drivesdk
