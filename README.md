@@ -11,7 +11,7 @@ Key Outputs:
 
 Next Steps: Refining the certification framework through public consultation and seeking partnerships with educational and policy institutions for pilot implementation.
  
-Read the full working paper (pdf):https://drive.google.com/file/d/1ThpnYyjMBPz-QKO650_FKjrMryYb5U0e/view?usp=drivesdk
+[Read the full working paper .pdf](https://drive.google.com/file/d/1ThpnYyjMBPz-QKO650_FKjrMryYb5U0e/view?usp=drivesdk)
 
 Project Links:
 Read the Working Paper (SSRN): https://ssrn.com/abstract=7592640
